@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.blog-preview{
+  max-width: 400px;
+  padding: 20px 10px;
+
+}
+
+.blog-preview:hover{
+  max-width: 400px;
+  padding: 20px 10px;
+  box-shadow: 3px 3px 30px rgb(191, 191, 191);
+
+}
+
+.blog-preview h1{
+  color: aqua;
+}
